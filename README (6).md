@@ -279,9 +279,9 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Lakshman Ulli**
+**Gayathri**
 
-* GitHub: https://github.com/lakshmanulli
+* GitHub: https://github.com/gayathri1thanneru
 * LinkedIn: Add your LinkedIn profile here
 
 ---
